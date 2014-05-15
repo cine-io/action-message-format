@@ -1,0 +1,17 @@
+{
+  "author": "Jeffrey Wescott <jeffrey@givingstage.com>",
+  "name": "action-message-format",
+  "description": "Encoding / decoding for Adobe's Action Message Format (AMF0 and AMF3).",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/givingstage/action-message-format"
+  },
+  "main": "./lib/amf",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.10.x"
+  }
+}
